@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "realhopajs.aternos.me",
+    "ip": "realhopajs.aternos.me:26489",
     "port": 26489,
     "version": "1.21.4 (232)",
     "try-creative": false
